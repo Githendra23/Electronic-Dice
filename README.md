@@ -1,5 +1,5 @@
 # Electronic-Dice
-An electronic dice designed and developped using an Arduino card
+An electronic dice designed and developped using an ATtiny85
 
 Link <a href="https://www.tinkercad.com/things/428wkJId0zd-electronic-dice?sharecode=Z36DLGYnoQLRzGdFyo3nqVsDAplWQomiRNJzmnC_nZ0">here</a> to test the electronic dice
 
